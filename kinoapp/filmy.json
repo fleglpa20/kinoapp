@@ -1,0 +1,32 @@
+[
+   {
+      "uuid":"619f1f1a5502af99215e01060d719bf5151103a9",
+      "name":"Avengers 2",
+      "date":"2023-04-20 18:00",
+      "cinema":{
+         "name":"CineMovie Praha",
+         "rows":12,
+         "columns":10
+      }
+   },
+   {
+      "uuid":"5673bb4d5a76146235d1b7220b14f8dc2f43c8ab",
+      "name":"Spider man",
+      "date":"2023-04-20 20:00",
+      "cinema":{
+         "name":"CineMovie Plzen",
+         "rows":9,
+         "columns":21
+      }
+   },
+   {
+      "uuid":"3ca2197921e0b773a83217c219939fd5afd182d8",
+      "name":"Příšerky s.r.o.",
+      "date":"2023-04-20 15:00",
+      "cinema":{
+         "name":"CineMovie Brno",
+         "rows":8,
+         "columns":8
+      }
+   }
+]
